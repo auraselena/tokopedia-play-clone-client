@@ -1,0 +1,7 @@
+{
+  "videos": [
+    { "id": 1, "thumbnailUrl": "https://www.youtube.com/embed/5tjEl7Lr6hk" },
+    { "id": 2, "thumbnailUrl": "https://www.youtube.com/embed/iZCwwGqlmQo" },
+    { "id": 3, "thumbnailUrl": "https://www.youtube.com/embed/zomvO2Ii-kA" }
+  ]
+}
