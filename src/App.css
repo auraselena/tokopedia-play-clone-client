@@ -40,3 +40,31 @@
 .read-the-docs {
   color: #888;
 }
+
+.videos-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0px auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.video {
+  margin: 30px 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  margin: 30px auto;
+  display: flex;
+}
+
+.product-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

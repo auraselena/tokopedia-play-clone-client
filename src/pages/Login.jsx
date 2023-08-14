@@ -1,8 +1,6 @@
 import ButtonLogin from "../components/ButtonLogin";
 const Login = () => {
-    return <div>
-        <ButtonLogin />
-    </div>
-}
+  return <ButtonLogin />;
+};
 
 export default Login;
