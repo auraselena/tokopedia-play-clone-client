@@ -1,4 +1,4 @@
-**TokPlay**
+# TokPlay
 
 TokPlay is a clone application from Tokopedia Play, a web app in which users can see list of videos, search video based on product name, and watch the video in the other page. Users can also see list of products related to the video.
 
